@@ -13,8 +13,9 @@ public class ListTopic {
         int listSize = al.size();
         System.out.println(listSize);
 
-        boolean hadlewis = al.contains("Lewis hamilton");
-        System.out.println(hadlewis);
+        boolean hasLewis = al.contains("Lewis hamilton");
+        System.out.println(hasLewis);
+
 
 
     }
