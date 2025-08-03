@@ -10,6 +10,9 @@ public class ListTopic {
         al.add("Alonso");
         System.out.println(al);
 
+        int listSize = al.size();
+        System.out.println(listSize);
+
     }
 
     public static void main(String[] args) {
